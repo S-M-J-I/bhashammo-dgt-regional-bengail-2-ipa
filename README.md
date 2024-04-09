@@ -1,4 +1,4 @@
-# BhaShammo: Transcribing Regional Bengali Text to IPA using District Guided Tokens
+# BhaShammo: IPA Transcription of Bengali Regional Dialect using District Guided Tokens
 
 #### Authors: S M Jishanul Islam, Sadia Ahmmed, Sahid Hossain Mustakim, Mohammad Jawwadul Islam, Swakkhar Shatabda, Md. Rezuwan Hassan, Asif Shahriar Shushmit, Farig Sadique
 
