@@ -1,6 +1,6 @@
 # BhaShammo: IPA Transcription of Bengali Regional Dialects using District Guided Tokens
 
-#### Authors: S M Jishanul Islam, Sadia Ahmmed, Sahid Hossain Mustakim, Mohammad Jawwadul Islam, Swakkhar Shatabda, Md. Rezuwan Hassan, Asif Shahriar Shushmit, Farig Sadique
+#### Authors: S M Jishanul Islam, Sadia Ahmmed, Sahid Hossain Mustakim, Mohammad Jawwadul Islam, Swakkhar Shatabda, Md. Rezuwan Hassan, Farig Sadique
 
 This is the official code repository for **BhaShammo**.
 
@@ -33,12 +33,12 @@ The model checkpoints can be found through the [HuggingFace collections](https:/
 
 ## Contributions
 
-We do not accept any contributions for this repository unless it is from the Authors' side. **Please raise an issue if you have any inquries.**
+We do not accept any contributions for this repository unless it is from the Authors' side. **Please raise an issue if you have any inquiries.**
 
 ---
 
 ## Acknowledgements
 
-We would love to express our wholehearted gratitude towards the people in [Bengali.AI](https://bengali.ai/), including Rezuwan Hassan, Asif Shahriar Shushmit, and Dr. Farig Sadique, for their support and supervision in this work and for providing the dataset. We would also love to thank them for arranging the national competition: [ভাষামূল: মুখের ভাষার খোঁজে](https://www.kaggle.com/competitions/regipa/overview), Bengali Text with Regional Dialect to IPA (pronunciation) transcription, which gave birth to this idea and got acknowledged as the winning solution.
+We would love to express our wholehearted gratitude towards the people in [Bengali.AI](https://bengali.ai/) for their support and supervision in this work and for providing the dataset. We would also love to thank them for arranging the national competition: [ভাষামূল: মুখের ভাষার খোঁজে](https://www.kaggle.com/competitions/regipa/overview), Bengali Text with Regional Dialect to IPA (pronunciation) transcription, which gave birth to this idea and got acknowledged as the winning solution.
 
 ---
