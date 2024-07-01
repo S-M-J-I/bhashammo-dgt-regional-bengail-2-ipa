@@ -1,7 +1,7 @@
 # BhaShammo: IPA Transcription of Bengali Regional Dialects using Dialect Guided Tokens
 
 ### Authors: S M Jishanul Islam, Sadia Ahmmed, Sahid Hossain Mustakim, Mohammad Jawwadul Islam, Swakkhar Shatabda, Md. Rezuwan Hassan, Farig Sadeque
-#### Submitted to the International Conference on Pattern Recognition (ICPR), 2024
+
 
 <br/>
 
